@@ -1,0 +1,42 @@
+body {
+    background-color: blue;
+    border:pink dotted;
+
+}
+
+img{
+    height:150px;
+    width:145px;
+    border: red dotted;
+}
+
+#fashion {
+background-color: salmon;
+border: dotted blue;
+font-family: 'Righteous', cursive;
+}
+
+#drip-off{
+background-color: green;
+font-family: 'Saira Stencil One', cursive;
+}
+
+#offwhite{
+    background-color: yellow;
+    font-family: 'Lacquer', sans-serif;
+}
+
+#top5{
+    background-color: orange;
+    border:dotted lightblue;
+}
+
+
+
+
+
+#drip-too-hard {
+    height: 100px;
+    width: 100px;
+    border: green solid;
+}
