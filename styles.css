@@ -40,3 +40,11 @@ font-family: 'Saira Stencil One', cursive;
     width: 100px;
     border: green solid;
 }
+
+#title{
+    background-color: green;
+    text-align: center;
+    border: solid salmon;
+    font-family: 'Rock Salt', cursive;
+    color:white;
+}
