@@ -5,8 +5,8 @@ body {
 }
 
 img{
-    height:150px;
-    width:145px;
+    height:100px;
+    widows: 50px;
     border: red dotted;
 }
 
